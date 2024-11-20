@@ -1,6 +1,6 @@
 # Face Recognition Using MTCNN & FaceNet
 
-## Project Guide
+## **Project Guide**
 
 ---
 
@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ---
 ### 2. Prepare data.
-#### Put images of people you want to recognize in `Dataset/raw/{Name}/images.jpg...`
+Put images of people you want to recognize in `Dataset/raw/{Name}/images.jpg...`
 ---
 
 ### 3. Data Preprocessing.
