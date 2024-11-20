@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ---
 
 ### 2. Data Preparing.
-#### Put face images of people you want to recognize in `Dataset/raw/{Name}/images.jpg...`
+##### Put images of people you want to recognize in `Dataset/raw/{Name}/images.jpg...`
 
 ---
 
